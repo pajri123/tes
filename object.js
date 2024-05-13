@@ -1,23 +1,23 @@
 // Object Literal
 
-// let mahasiswa1 = {
-//   nama: "pajri",
-//   energi: 10,
+let mahasiswa1 = {
+  nama: "pajri",
+  energi: 10,
 
-//   makan: function (porsi) {
-//     this.energi = this.energi + porsi;
-//     console.log(`Halo ${this.nama},selamat makan`);
-//   },
-// };
-// let mahasiswa2 = {
-//   nama: "pajri",
-//   energi: 10,
+  makan: function (porsi) {
+    this.energi = this.energi + porsi;
+    console.log(`Halo ${this.nama},selamat makan`);
+  },
+};
+let mahasiswa2 = {
+  nama: "pajri",
+  energi: 10,
 
-//   makan: function (porsi) {
-//     this.energi = this.energi + porsi;
-//     console.log(`Halo ${this.nama},selamat makan`);
-//   },
-// };
+  makan: function (porsi) {
+    this.energi = this.energi + porsi;
+    console.log(`Halo ${this.nama},selamat makan`);
+  },
+};
 
 // Tutup Object Literal
 
